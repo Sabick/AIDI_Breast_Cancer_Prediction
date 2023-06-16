@@ -1,4 +1,4 @@
-<h2>AIDI_Breast_Cancer_Prediction</h2?
+<h2>AIDI_Breast_Cancer_Prediction</h2>
 
 This project aims to predict the likelihood of cancer using Support Vector Machines (SVM). SVM is a powerful machine learning algorithm that can handle both linear and non-linear classification problems effectively.
 
